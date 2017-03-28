@@ -1831,6 +1831,7 @@
 				TargetAttributes = {
 					0C668B681D531901000FC15A = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = UVZ7B46BL3;
 					};
 				};
 			};
@@ -2280,6 +2281,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UVZ7B46BL3;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/MeiPai",
@@ -2289,7 +2291,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.xiaowen.MeiPai;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stm.MeiPai;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -2298,6 +2300,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UVZ7B46BL3;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/MeiPai",
@@ -2307,7 +2310,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.xiaowen.MeiPai;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stm.MeiPai;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
